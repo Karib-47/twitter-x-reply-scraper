@@ -1,0 +1,11 @@
+{
+  "startUrls": [
+    "https://x.com/meehikabarua/status/1867564631180632295",
+    "https://x.com/MediaMatchMaker/status/1867585988102697438"
+  ],
+  "maxSearchResults": 20,
+  "maxReplies": 25,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) TwitterReplyScraper/1.0",
+  "rateLimitPerMinute": 20,
+  "requestTimeoutSeconds": 15
+}
