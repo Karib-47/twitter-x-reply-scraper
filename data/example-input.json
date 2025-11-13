@@ -1,0 +1,9 @@
+{
+  "description": "Example configuration for Twitter (X) Reply Scraper. These values are mirrored in src/config/settings.example.json.",
+  "startUrls": [
+    "https://x.com/meehikabarua/status/1867564631180632295",
+    "https://x.com/MediaMatchMaker/status/1867585988102697438"
+  ],
+  "maxSearchResults": 20,
+  "maxReplies": 25
+}
